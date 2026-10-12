@@ -1,0 +1,13 @@
+name = "Samiligré"
+author = "Game28"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "477daf0a23fcabab65b1efe40d51fe73bafa95852c035f1d55f4b77af02dfe70"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.259"
